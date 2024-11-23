@@ -17,6 +17,6 @@ Edit/Run the Project:
 Open the project in your favorite code editor.
 Edit the index.html file to customize your information.
 Open the index.html file in your browser to view your CV.
-[Project URL](https://github.com/GoutamK1902/single-page-CV)
+[Project URL](https://roadmap.sh/projects/single-page-cv)
 You can view or contribute to the project here:
 Single Page CV on GitHub
